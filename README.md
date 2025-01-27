@@ -5,7 +5,9 @@
 
 Here are some ideas to get you started:
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=BekzodAkhmadov&show_icons=true&theme=dark&count_private=true)
+## 🔥 Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekzodAkhmadov&layout=compact&theme=dark)
+
 
 
 
