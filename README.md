@@ -3,6 +3,7 @@
 - 🎓 I'm currently studying at **PDP Academy**, enhancing my skills in software development.
 - 💻 I'm learning **C# and .NET**, focusing on backend development.
 - 💼 Connect with me on : [LinkedIn](https://www.linkedin.com/in/bekzod-ahmadov-a765b3323)
+- 📱 Reach me on : [Telegram](https://t.me/AhmadovBekzod)
 - 👤 Pronouns: He/Him
 
 
