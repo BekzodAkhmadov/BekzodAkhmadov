@@ -5,8 +5,9 @@
 
 Here are some ideas to get you started:
 
-## 🔥 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BekzodAkhmadov&layout=compact&theme=dark)
+- 💻 I'm learning **C# and .NET**, focusing on backend development.
+- 💼 Connect with me on LinkedIn: [LinkedIn Profile](https://www.linkedin.com/in/bekzod-ahmadov-a765b3323)
+- 👤 Pronouns: He/Him
 
 
 
