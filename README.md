@@ -1,8 +1,6 @@
 ## 👋 Hello, I'm Bekzod Ahmadov
 
 💻 I'm a backend developer with a strong passion for building robust and efficient web applications using **C#** and **.NET**.  
-🔍 I enjoy solving real-world problems with clean code, layered architecture, and modern development practices.  
-🧠 I'm continuously learning and exploring technologies like **ASP.NET Core**, **Entity Framework Core**, and **SQL Server** to level up my development skills.  
 ⚡ I also love working on side projects, contributing to open source, and sharing what I learn along the way.
 
 📫 Let's connect:  
